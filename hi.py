@@ -8,3 +8,4 @@ def muh():
   print("muhammad")
 muh()
 
+muh()
