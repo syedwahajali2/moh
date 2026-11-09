@@ -6,3 +6,5 @@ hi()
 hi()
 def muh():
   print("muhammad")
+muh()
+
